@@ -7,6 +7,7 @@ license: MIT
 # GitHub Copilot トークン使用量・料金変換スキル
 
 入力されたトークン使用量（入力トークン、キャッシュされた入力トークン、キャッシュ書き込みトークン、出力トークン）を、GitHub Copilotのモデル別価格表（[GitHub Copilot のモデルと価格設定](https://docs.github.com/ja/copilot/reference/copilot-billing/models-and-pricing)）に基づいて、USD金額および **AI credits** に変換・計算する手順と仕様です。
+2026年8月29日時点の価格で計算します
 
 ---
 
