@@ -1,6 +1,7 @@
 ---
 name: claudecodecost-2-copilot-aicredit
 description: 入力・出力・キャッシュ等のトークン使用量をGitHub Copilotのモデル料金表に基づいてUSD料金およびAI creditsに変換・計算するスキル。
+license: MIT
 ---
 
 # GitHub Copilot トークン使用量・料金変換スキル
